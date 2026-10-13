@@ -1,0 +1,1 @@
+// validator — AI caricature generator
